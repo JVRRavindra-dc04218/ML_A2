@@ -15,7 +15,7 @@ from sklearn.metrics import (
 
 st.set_page_config(page_title="Advanced ML Analytics", layout="wide")
 
-st.title("🛡️ Predictive Analysis Command Center")
+st.title("🛡️ Multiple Classificaiton modal")
 st.write("Specialized Machine Learning - Performance Visualization Interface")
 
 SIDEBAR_CONFIG_HEADER = "System Settings"
